@@ -5,8 +5,8 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
-project = ' Access and manage your Comcast Account'
-copyright = '2025, Access and manage your Comcast Account'
+project = ' Comcast'
+copyright = '2025'
 author = 'Mark Tawin'
 release = '1.0'
 
